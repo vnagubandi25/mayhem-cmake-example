@@ -1,6 +1,5 @@
 project: mayhem-cmake-example
 target: fuzzme
-duration: 1200
 
 cmds:
   - cmd: /fuzzme
